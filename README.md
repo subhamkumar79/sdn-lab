@@ -53,9 +53,5 @@ Setting up a virtual SDN lab allows students and professionals to simulate and e
 
 After setting up the virtual SDN lab, here are the typical outputs:
 
-- ✅ Virtual Network Topology simulated inside Mininet  
-- ✅ Real-time connectivity testing using `pingall`, `iperf`, etc.  
-- ✅ Flow table entries and network stats visible in the OpenDaylight GUI  
-- ✅ Custom topologies and SDN apps executing and reacting in real-time to traffic changes  
-
+![output images](Screenshot%202025-05-13%20220545.png)
 ---
